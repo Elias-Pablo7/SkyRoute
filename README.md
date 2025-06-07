@@ -5,6 +5,15 @@ Este sistema simula al de una aerolínea, permitiendo gestionar clientes, destin
 
 ---
 
+👩‍💻 Autores
+
+Juan Martin Rosello dal molin
+Erica Melisa Paredes
+Pablo Francisco Elías
+Florencia Belén Dussman
+Lisi Daniela Gonzalez
+
+---
 ## Funcionalidad
 
 SkyRoute permite:
