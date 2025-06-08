@@ -29,16 +29,16 @@ SkyRoute permite:
 ---
 🛠️ Requisitos
 
-Python 3.9 o superior
-Terminal compatible (CMD, PowerShell, Bash o Terminal de VSCode)
+- Python 3.9 o superior
+  Terminal compatible (CMD, PowerShell, Bash o Terminal de VSCode)
 
 ---
 
 ▶️ ¿Cómo ejecutar el programa?
 
-Descargá o cloná el repositorio.
-Abrí una terminal en la carpeta del proyecto.
-Ejecutá el archivo principal:
+.Descargá o cloná el repositorio.
+.Abrí una terminal en la carpeta del proyecto.
+.Ejecutá el archivo principal:
 python main.py
 
 ---
@@ -51,4 +51,6 @@ A continuación se muestra el modelo ER del sistema de gestión de pasajes:
 
 ---
 
-## Estructura del Proyecto
+## ⚖️ Consideraciones Éticas y Legales
+
+
