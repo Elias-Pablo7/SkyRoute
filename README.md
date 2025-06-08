@@ -47,6 +47,8 @@ python main.py
 
 A continuación se muestra el modelo ER del sistema de gestión de pasajes:
 
+<img width="612" alt="Captura de pantalla 2025-06-08 a la(s) 20 01 41" src="https://github.com/user-attachments/assets/cbc92a32-a79b-4751-9bbe-fdb40bfebf38" />
+
 ---
 
 ## Estructura del Proyecto
