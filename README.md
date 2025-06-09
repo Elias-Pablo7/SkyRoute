@@ -65,14 +65,17 @@ En Base de datos, relacionado a esto se crea una tabla que registra las ventas y
 
 Con respecto al marco normativo proponemos: 
 
-1. 🧩 	Documentar y visibilizar que el proyecto es de uso educativo y no comercial. Si en un futuro se decide convertirlo o utilizarlo de forma comercial deberíamos registrar el software previamente. Incluir en el código fuente un aviso de autoría y licencia de uso. Todo esto corresponde a la Propiedad Intelectual de la Implementación de la Ley 11723.
+1. 🧩 	Documentar y visibilizar que el proyecto es de uso educativo y no comercial. Si en un futuro se decide convertirlo o utilizarlo de forma comercial deberíamos registrar el software previamente. Incluir en el código fuente un aviso de autoría y licencia de uso.
+   Todo esto corresponde a la Propiedad Intelectual de la Implementación de la Ley 11723.
 
 El código desarrollado respeta los derechos de autor y no infringe la propiedad intelectual de terceros.
 
 2. 🔐  En SkyRoute, los datos sensibles como nombre de cliente, CUIT, correo deben:
    
 •	Ser almacenados de forma segura (base de datos protegida con usuario/clave).
-•	No ser compartidos ni exportados sin consentimiento
+
+•	No ser compartidos ni exportados sin consentimiento.
+
 •	Incluir en el sistema una cláusula de consentimiento y aviso de privacidad si se llegara a publicar.
 
 Lo mencionado corresponde a la Implementación de la Ley 25.326 con relación a la Protección de Datos Personales. La ley define términos clave como datos personales, datos sensibles, archivo, registro, base o banco de datos, tratamiento de datos, responsable de archivo, datos informatizados, titular de los datos, usuario de datos, y disociación de datos.
